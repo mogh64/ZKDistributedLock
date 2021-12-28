@@ -12,7 +12,11 @@ Follow these steps to use distributed lock in your project using this library:
     "ConnectionTimeout": "20000"
   },
 ```
-2- Inject IDistributedLockerFactory for acquiring lock in your service:
+2- Register zookeeper locking service in your startup:
+```
+  service.RegisterZKDistributedLock(configuration);
+```
+3- Inject IDistributedLockerFactory for acquiring lock in your service:
 ```
         private readonly IDistributedLockerFactory distributedLockerFactory;
        
@@ -21,7 +25,7 @@ Follow these steps to use distributed lock in your project using this library:
             this.distributedLockerFactory = distributedLockerFactory;
         }
 ```
-3- Get a lock on a resource by name and define a callback to be called after getting the lock (it's an async action)
+4- Get a lock on a resource by name and define a callback to be called after getting the lock (it's an async action)
 ```
  public async Task<string> Test()
         {
