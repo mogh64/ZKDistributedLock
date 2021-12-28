@@ -1,5 +1,8 @@
 # ZKDistributedLock
 Distributed lock implementation in .Net Core 6
+At first make sure you have a running instance of zookeeper,if you don't have ,you could install zookeeper using docker-compose file in zookeeper folder in the project.
+Follow these steps to use distributed lock in your project using this library:
+
 1- Set Zookeeper setttings in appsetting.json :
 ```
   "Zookeeper": {
