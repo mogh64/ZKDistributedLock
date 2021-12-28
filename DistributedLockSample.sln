@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedLockSample", "DistributedLockSample\DistributedLockSample.csproj", "{6184ACE3-E974-46F6-9BBB-3C0386FFBE5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LockManagement", "LockManagement\LockManagement.csproj", "{10C70DDB-9C7A-4344-B536-594712FE4B1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6184ACE3-E974-46F6-9BBB-3C0386FFBE5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6184ACE3-E974-46F6-9BBB-3C0386FFBE5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6184ACE3-E974-46F6-9BBB-3C0386FFBE5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6184ACE3-E974-46F6-9BBB-3C0386FFBE5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C70DDB-9C7A-4344-B536-594712FE4B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C70DDB-9C7A-4344-B536-594712FE4B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C70DDB-9C7A-4344-B536-594712FE4B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C70DDB-9C7A-4344-B536-594712FE4B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D2E2167-221B-45CB-8635-0EDFEF640C53}
+	EndGlobalSection
+EndGlobal
