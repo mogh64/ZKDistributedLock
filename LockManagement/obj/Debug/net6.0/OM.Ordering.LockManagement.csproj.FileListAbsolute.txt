@@ -1,0 +1,12 @@
+E:\Codes\OrderManagement\OM.Ordering.LockManagement\bin\Debug\net6.0\OM.Ordering.LockManagement.deps.json
+E:\Codes\OrderManagement\OM.Ordering.LockManagement\bin\Debug\net6.0\OM.Ordering.LockManagement.dll
+E:\Codes\OrderManagement\OM.Ordering.LockManagement\bin\Debug\net6.0\ref\OM.Ordering.LockManagement.dll
+E:\Codes\OrderManagement\OM.Ordering.LockManagement\bin\Debug\net6.0\OM.Ordering.LockManagement.pdb
+E:\Codes\OrderManagement\OM.Ordering.LockManagement\obj\Debug\net6.0\OM.Ordering.LockManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\OrderManagement\OM.Ordering.LockManagement\obj\Debug\net6.0\OM.Ordering.LockManagement.AssemblyInfoInputs.cache
+E:\Codes\OrderManagement\OM.Ordering.LockManagement\obj\Debug\net6.0\OM.Ordering.LockManagement.AssemblyInfo.cs
+E:\Codes\OrderManagement\OM.Ordering.LockManagement\obj\Debug\net6.0\OM.Ordering.LockManagement.csproj.CoreCompileInputs.cache
+E:\Codes\OrderManagement\OM.Ordering.LockManagement\obj\Debug\net6.0\OM.Ordering.LockManagement.dll
+E:\Codes\OrderManagement\OM.Ordering.LockManagement\obj\Debug\net6.0\ref\OM.Ordering.LockManagement.dll
+E:\Codes\OrderManagement\OM.Ordering.LockManagement\obj\Debug\net6.0\OM.Ordering.LockManagement.pdb
+E:\Codes\OrderManagement\OM.Ordering.LockManagement\obj\Debug\net6.0\OM.Ordering.LockManagement.csproj.AssemblyReference.cache

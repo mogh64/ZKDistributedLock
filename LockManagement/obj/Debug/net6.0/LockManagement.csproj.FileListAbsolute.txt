@@ -1,0 +1,12 @@
+C:\Users\Morteza\source\repos\DistributedLockSample\LockManagement\bin\Debug\net6.0\LockManagement.deps.json
+C:\Users\Morteza\source\repos\DistributedLockSample\LockManagement\bin\Debug\net6.0\LockManagement.dll
+C:\Users\Morteza\source\repos\DistributedLockSample\LockManagement\bin\Debug\net6.0\ref\LockManagement.dll
+C:\Users\Morteza\source\repos\DistributedLockSample\LockManagement\bin\Debug\net6.0\LockManagement.pdb
+C:\Users\Morteza\source\repos\DistributedLockSample\LockManagement\obj\Debug\net6.0\LockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morteza\source\repos\DistributedLockSample\LockManagement\obj\Debug\net6.0\LockManagement.AssemblyInfoInputs.cache
+C:\Users\Morteza\source\repos\DistributedLockSample\LockManagement\obj\Debug\net6.0\LockManagement.AssemblyInfo.cs
+C:\Users\Morteza\source\repos\DistributedLockSample\LockManagement\obj\Debug\net6.0\LockManagement.csproj.CoreCompileInputs.cache
+C:\Users\Morteza\source\repos\DistributedLockSample\LockManagement\obj\Debug\net6.0\LockManagement.dll
+C:\Users\Morteza\source\repos\DistributedLockSample\LockManagement\obj\Debug\net6.0\ref\LockManagement.dll
+C:\Users\Morteza\source\repos\DistributedLockSample\LockManagement\obj\Debug\net6.0\LockManagement.pdb
+C:\Users\Morteza\source\repos\DistributedLockSample\LockManagement\obj\Debug\net6.0\LockManagement.csproj.AssemblyReference.cache
