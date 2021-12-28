@@ -33,3 +33,8 @@ Distributed lock implementation in .Net Core 6
         }
 ```
 Lock will be released automatically after completeng the lock callback action.
+You could get the NuGet package using this command:
+```
+Install-Package LockManagement -Version 1.0.1
+```
+
