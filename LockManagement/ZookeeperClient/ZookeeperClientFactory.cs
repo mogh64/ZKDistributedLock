@@ -9,6 +9,7 @@ namespace LockManagement.ZookeeperClient
         private string hostPort = "127.0.0.1:21811";
 
         private int CONNECTION_TIMEOUT = 4000;
+        private static ZooKeeper zooKeeperClient;
 
 
         public ZookeeperClientFactory(IOptions<ZookeeperSettings> options)
@@ -26,7 +27,11 @@ namespace LockManagement.ZookeeperClient
         }
         public ZooKeeper CreateClient()
         {
-            return createClient(this);
+            if (zooKeeperClient == null)
+            {
+                zooKeeperClient = createClient(this);
+            }
+            return zooKeeperClient;
         }
         private ZooKeeper createClient(Watcher watcher)
         {
