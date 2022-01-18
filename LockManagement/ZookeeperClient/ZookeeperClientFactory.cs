@@ -27,7 +27,7 @@ namespace LockManagement.ZookeeperClient
         }
         public ZooKeeper CreateClient()
         {
-            if (zooKeeperClient == null)
+            if (zooKeeperClient == null || zooKeeperClient.getState()!=ZooKeeper.States.CONNECTED)
             {
                 zooKeeperClient = createClient(this);
             }
